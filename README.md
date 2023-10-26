@@ -389,4 +389,4 @@ We would like to express our gratitude to the Spring Boot and Java communities f
 <!-- Contact -->
 ## Contact
 
-For questions or feedback, please contact [Amit Ashok Swain](mailto:business.amitswain@gmail.com).
+For questions or feedback, please contact [Aniket Nagnath Katkade](mailto:business.aniketkatkade@gmail.com).
